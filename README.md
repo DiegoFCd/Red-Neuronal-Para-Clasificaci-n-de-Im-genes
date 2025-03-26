@@ -25,6 +25,11 @@ Desarrollé un modelo de analisis robusto a partir de un dataset con un buen num
 - Reducción de tiempo de análisis de imagenes
 - Sistema reproducible y escalable para nuevos datos
 
+## 🚀 ¿Cómo ejecutar el proyecto?
+1. Clonar repositorio
+2. Instalar dependencias
+3. Ejecutar notebooks en orden numérico
+
 ## 📂-Capturas del modelo prediciendo luego del entrenamiento: 
 
 <p align="center">
