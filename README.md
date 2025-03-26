@@ -7,21 +7,22 @@ Desarrollé un modelo de analisis robusto a partir de un dataset con un buen num
 ## 🔍 ¿Qué encontrarás aquí?
 - **Limpieza y transformación** de datos crudos en información valiosa
 - **Análisis exploratorio del dataset**
-- **Conclusiones accionables** para stakeholders
 - **Escalado de imagenes** para mejorar el desempeño del modelo
+- **Modelos de Redes Neuronales Densas, Convolucionales Simples y Convolucionales con DropOut**
 
 ## 🛠 Habilidades Demostradas
-- **Python** (Pandas, NumPy, Scikit-learn)
-- **Análisis Estadístico Avanzado**
-- **Preprocesamiento de Datos** (manejo de outliers, imputación, encoding)
+- **Python** (Pandas, NumPy, Keras,Tensorflow,etc)
+- **Análisis de Mejoras de Modelos de Machine Learning**
+- **Preprocesamiento de Datos** (manejo escalado, tamaño, y volumen de imagenes)
 - **Feature Engineering**
-- **Visualización de Datos** (Matplotlib, Seaborn)
-- **Machine Learning** (Regresión lineal, Random Forest, XGBoost)
+- **Visualización de Datos** (Tensorboard)
+- **Machine Learning** 
 - **Optimización de Hiperparámetros**
+- **Aumento de datos**
 
 ## 📊 Impacto del Proyecto
-- **+30%** en precisión predictiva respecto a modelos baseline
-- Reducción de **+40%** en tiempo de análisis para toma de decisiones
+- **+%** en precisión predictiva respecto a modelos baseline
+- Reducción de tiempo de análisis de imagenes
 - Sistema reproducible y escalable para nuevos datos
 
 ## 📂-Capturas del modelo prediciendo luego del entrenamiento: 
