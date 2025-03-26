@@ -1,4 +1,7 @@
-# Modelo Analitico y Predictivo de Imagenes
+# Modelo Analitico y Predictivo de Imagenes<br>
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 
 ## 📌 Descripción del Proyecto
 Desarrollé un modelo de analisis robusto a partir de un dataset con un buen numero de imagenes de perros y gatos, aplicando técnicas avanzadas de **Transformacion** y **Escalado de imagenes**. El resultado final permite identificar en buena medida las imagenes con un buen performance del modelo.
